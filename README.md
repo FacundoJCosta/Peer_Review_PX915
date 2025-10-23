@@ -11,3 +11,5 @@ Set up:
 6. source venv/bin/activate
 7. source julia_set_up.sh
 8. pip install -r requirements.txt
+9. python -m pip install ipykernel
+10. python -m ipykernel install --user --name=test
