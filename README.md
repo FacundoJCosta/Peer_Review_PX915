@@ -10,4 +10,4 @@ Set up:
 5. python -m venv venv
 6. source venv/bin/activate
 7. source julia_set_up.sh
-
+8. pip install -r requirements.txt
