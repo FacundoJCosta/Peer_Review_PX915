@@ -11,15 +11,17 @@ Set up:
 6. source venv/bin/activate
 7. source julia_set_up.sh
 8. git clone https://github.com/wgst/acease.git
-9. cd acease
-10. cd acease
-12. python -c "import julia; julia.install()"
-13. cd .. 
-14. pip install -r requirements.txt
-15. python -m pip install ipykernel
-16. python -m ipykernel install --user --name=test
-17. export JULIA_PROJECT="$PWD"
-18. jupyter notebook
+9. rm aseace/aseace/ace_calculator.py
+10. cp ace_calculator.py aseace/aseace/
+11. cd aseace
+12. pip install .
+13. python -c "import julia; julia.install()"
+14. cd .. 
+15. pip install -r requirements.txt
+16. python -m pip install ipykernel
+17. python -m ipykernel install --user --name=test
+18. export JULIA_PROJECT="$PWD"
+19. jupyter notebook
 
 Now open the stacking_fault notebook and select the kernal test
 
