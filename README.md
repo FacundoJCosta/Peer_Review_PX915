@@ -12,13 +12,13 @@ Set up:
 7. source julia_set_up.sh
 8. git clone https://github.com/wgst/acease.git
 9. cd acease
-10. pip install .
-11. python -c "import julia; julia.install()"
-12. cd .. 
-13. pip install -r requirements.txt
-14. python -m pip install ipykernel
-15. python -m ipykernel install --user --name=test
-16. export JULIA_PROJECT="$PWD"
+10. cd acease
+12. python -c "import julia; julia.install()"
+13. cd .. 
+14. pip install -r requirements.txt
+15. python -m pip install ipykernel
+16. python -m ipykernel install --user --name=test
+17. export JULIA_PROJECT="$PWD"
 18. jupyter notebook
 
 Now open the stacking_fault notebook and select the kernal test
