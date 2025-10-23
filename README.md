@@ -20,5 +20,8 @@ Set up:
 15. python -m ipykernel install --user --name=test
 16. jupyter notebook
 
+Now open the stacking_fault notebook and select the kernal test
 
-Now that it is set up,we can go a
+You should be able to run it now.
+
+If you end the session, run 
