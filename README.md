@@ -18,6 +18,7 @@ Set up:
 13. pip install -r requirements.txt
 14. python -m pip install ipykernel
 15. python -m ipykernel install --user --name=test
+16. jupyter notebook
 
 
 Now that it is set up,we can go a
