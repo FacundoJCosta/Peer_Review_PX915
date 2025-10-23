@@ -12,11 +12,12 @@ Set up:
 7. source julia_set_up.sh
 8. git clone https://github.com/wgst/acease.git
 9. cd acease
-10 . pip install .
-11 . python -c "import julia; julia.install()"
-12. pip install -r requirements.txt
-13. python -m pip install ipykernel
-14. python -m ipykernel install --user --name=test
+10. pip install .
+11. python -c "import julia; julia.install()"
+12. cd .. 
+13. pip install -r requirements.txt
+14. python -m pip install ipykernel
+15. python -m ipykernel install --user --name=test
 
 
 Now that it is set up,we can go a
