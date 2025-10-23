@@ -18,7 +18,8 @@ Set up:
 13. pip install -r requirements.txt
 14. python -m pip install ipykernel
 15. python -m ipykernel install --user --name=test
-16. jupyter notebook
+16. export JULIA_PROJECT="$PWD"
+18. jupyter notebook
 
 Now open the stacking_fault notebook and select the kernal test
 
