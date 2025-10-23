@@ -5,5 +5,9 @@ Set up:
 
 1. git clone https://github.com/FacundoJCosta/Peer_Review_PX915.git
 2. cd Peer_Review_PX915
-3. source set_up_modules.sh
-4. source julia_set_up.sh
+3. module purge
+4. source set_up_modules.sh
+5. python -m venv venv
+6. source venv/bin/activate
+7. source julia_set_up.sh
+
