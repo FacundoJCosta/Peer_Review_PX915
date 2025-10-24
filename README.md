@@ -13,7 +13,7 @@ Set up:
 8. git clone https://github.com/wgst/acease.git
 9. rm acease/acease/ace_calculator.py
 10. cp ace_calculator.py acease/acease/
-11. cd aseace
+11. cd acease
 12. pip install .
 13. python -c "import julia; julia.install()"
 14. cd .. 
