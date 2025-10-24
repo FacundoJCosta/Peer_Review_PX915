@@ -27,4 +27,9 @@ Now open the stacking_fault notebook and select the kernal test
 
 You should be able to run it now.
 
-If you end the session, run 
+If you end the session, run the following commands if the set up has been done:
+
+1. source set_up_modules.sh
+2. source venv/bin/activate
+3. export JULIA_PROJECT="$PWD"
+4. jupyter notebook
