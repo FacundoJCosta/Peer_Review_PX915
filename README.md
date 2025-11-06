@@ -33,3 +33,8 @@ If you end the session, run the following commands if the set up has been done:
 2. source venv/bin/activate
 3. export JULIA_PROJECT="$PWD"
 4. jupyter notebook
+
+
+The reproducible results:
+
+For my pro...
