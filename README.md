@@ -38,4 +38,12 @@ If you end the session, run the following commands if the set up has been done:
 The reproducible results:
 
 For my reproducible result, I have choosen the GPFE of the basal plane I2 stacking fault. It is when the basal plane is slide along the glide direction, to see what the unstable and stable stacking fault energies are.
+The Plots that you should get is the following:
+
+
+
+Our mean for the non-defect models is 175.235 with a standard deviation of 31.664
+Our mean for the gamma surface informed models is 324.655 with a standard deviation of 3.996
+Our mean DFT energy was 344.687 whereas the literature was 319.283
+
 
