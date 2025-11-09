@@ -39,8 +39,9 @@ The reproducible results:
 
 For my reproducible result, I have choosen the GPFE of the basal plane I2 stacking fault. It is when the basal plane is slide along the glide direction, to see what the unstable and stable stacking fault energies are.
 
-The Plots that you should get is the following:
+The plot that you should get is the following:
 
+<img width="649" height="600" alt="image" src="https://github.com/user-attachments/assets/7c2b3dec-6960-40d5-8699-284cbaa7bef9" />
 
 
 
