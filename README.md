@@ -37,4 +37,5 @@ If you end the session, run the following commands if the set up has been done:
 
 The reproducible results:
 
-For my pro...
+For my reproducible result, I have choosen the GPFE of the basal plane I2 stacking fault. It is when the basal plane is slide along the glide direction, to see what the unstable and stable stacking fault energies are.
+
